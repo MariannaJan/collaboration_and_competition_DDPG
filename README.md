@@ -26,7 +26,7 @@ Follow the instruction in the README file in the root of the folder to install t
 
 Follow the instructions in the README of p3_collab-compet (https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet) to install the correct environment for Your operating system. You don't need to install Unity separately, as Unity Agents are already configured in the environment.
 
-Finally place the files from this repo into the p1_navigation folder of the deep-reinforcement-learning repository and run the Jupyter Notebook Tennis.ipynb. Make sure the name of the environment you downloaded matches the one specified in the code env = UnityEnvironment(file_name="/data/Tennis_Linux_NoVis/Tennis")
+Finally place the files from this repo into the p3_collab-compet folder of the deep-reinforcement-learning repository and run the Jupyter Notebook Tennis.ipynb. Make sure the name of the environment you downloaded matches the one specified in the code env = UnityEnvironment(file_name="/data/Tennis_Linux_NoVis/Tennis")
 
 ## Instructions
 
